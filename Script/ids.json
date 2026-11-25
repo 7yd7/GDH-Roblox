@@ -1,0 +1,14 @@
+{
+    "Just a baseplate": {
+        "id": "123974602339071",
+        "name": "Just a baseplate",
+        "path": "Just a baseplate/test.luau",
+        "version": "1.0.0"
+    },
+    "Geometry Dash 2.2": {
+        "id": "128583746271484",
+        "name": "Geometry Dash 2.2",
+        "path": "Geometry Dash 2.2/loader.luau",
+        "version": "1.0.0"
+    }
+}
