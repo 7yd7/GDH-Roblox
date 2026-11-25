@@ -9,3 +9,6 @@
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/GDH-Roblox/main/Loader.luau", true))()
 ```
+
+
+> Warning: This is not official by [GDH](https://gitlab.com/tobyadd/GDH) Original for Geometry Dash
