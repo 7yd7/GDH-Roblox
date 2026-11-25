@@ -2,7 +2,7 @@
   <img src="logo.png" alt="GDH Logo" width=200 />
 </p>
 
-<h1 align="center">GDH is a mod menu For Roblox Script</h1>
+<h1 align="center">GDH is a mod menu For Roblox Script<br/>Executor</h1>
 
 <h3 align="center">Usage</h3>
 
